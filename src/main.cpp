@@ -3,7 +3,7 @@
 #include <cmath>
 #include "AudioFile.h"
 #include "sound.hpp"
-#include "png++/png.hpp"
+#include "waveform.cpp"
 
 int main()
 {
